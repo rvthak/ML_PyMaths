@@ -1,2 +1,3 @@
 # ML_PyMaths
-Basic Maths for Machine Learning using python
+
+The Mathematic Basis for Machine learning + simple python implementation
